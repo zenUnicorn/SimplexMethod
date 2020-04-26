@@ -1,0 +1,12 @@
+A. A = | 0.25  0.6  1.03   2 |
+       | 5      8    8    10 |
+b. The rhs vector is 
+         | 175 |
+         | 30  |
+c. The vector of the Cost Coefficient is
+         | 10 20 30 50 |
+C.  The indices of the basic variable corresponding to an initial basic feasible solution
+         | X1        0 | 
+         | X2    =   0 |
+         | X3        0 |
+         | X4        0 |
