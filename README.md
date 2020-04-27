@@ -1,20 +1,22 @@
 # SimplexMethod
-Simplex using python, jupyter notebook, numpy 
+Simplex method using python, jupyter notebook, numpy 
 
 Initialize your jupyter Notebook from terminal
 Then Run the `simplex_method.ipynb`
-**Note:** run all the cells so as to activate the libraries
-Run the last cell and inout the correct details there: 
+____
+
+**Note:** Run all the cells so as to activate the libraries.
+Run the last cell and input the correct details there: 
 * Enter no. of coeff (n): Count number of Cost Coefficient
 * Enter no. of constraints (m): 
-* "Enter A:  A = | 0.25  0.6  1.03   2 |
+* Enter A:  A = | 0.25  0.6  1.03   2 |
                | 5      8    8    10 |
  Enter A:
  Enter b:
  Enter c:
  
  
-`#min c`x`
+### `#min c`x`
 ### Ax=b
 ### x>=0
 
